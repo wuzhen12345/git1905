@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 xxxxxxxxxxxxxxxxxxxxxxxxxadgyawgdygahd
 awejqwnelkqwl
+=======
+aaaaaaaaaaaaaaaaaaaaaaaaaadgyawgdygahd
+aaaaaaaaaaaaaaaaaaaaa awejqwnelkqwl
+>>>>>>> 4b9e4a971e0bd716a16cb61a4c4128918d876169
 
 qwepqwepqwpe
 
